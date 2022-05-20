@@ -1,3 +1,4 @@
+REM http://wp.xin.at/archives/3309
 @ECHO OFF
 SETLOCAL ENABLEDELAYEDEXPANSION
 SET totalreadvolume=0
